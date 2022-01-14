@@ -1,0 +1,69 @@
+.foto-perfil {
+    width: 200px;
+    border: 2px solid rgb(0, 0, 63);
+    border-radius: 50%;
+}
+
+body {
+    background: #dfdfdf;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    color: black;
+    margin: 0;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.social-icons {
+    width: 20px;
+}
+
+.github {
+    margin: 0 15px 0 15px;
+}
+
+.profile {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Licorice', cursive;
+    
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Licorice', cursive;
+    font-size: 40px;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+
+.pontos-fortes {
+    margin-top: 0;
+}
+
+.habilidades {
+    margin-top: 0;
+}
+
+.footer {
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}

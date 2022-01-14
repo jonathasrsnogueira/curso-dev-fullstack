@@ -1,0 +1,24 @@
+body{
+    background: #dfdfdf;
+}
+
+p {
+    color: rgb(34, 34, 34);
+}
+
+.foto-principal{
+    width: 200px;
+    border: 2px solid #FFFFFF; /* shorthand*/
+    border-radius: 50%;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    */
+
+    /* margin-top: 30ppx
+    margin-bottom: 30px
+    margin-left: 30px */
+    margin: 30px 30px 30px 30px /*shorthand de margin nesta ordem: topo,right,bottom,left*/
+    /* caso eu queira colocar o mesmo valor para todos os lados, basta que eu coloque apenas o primeiro valor
+    desta forma: margin: 10px */
+}
